@@ -51,7 +51,7 @@ Booking
 ![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/a2d8899250fb9ef828f43bb9a7f11e919c776361/client/FlightProject/Screenshot%202025-10-25%20112729.png)
 
 ## 2. Register
-![image alt](https://github.com/Nikhila-27/Air-Booking/blob/f0fda8aef754f361c26fce35a8991a3c9bce8221/Screenshot%202025-10-25%20111928.png)
+![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/6b439593dd86800698e5b1f60605a2e9b2c5cc13/client/FlightProject/Screenshot%202025-10-25%20111928.png)
 
 ## 3. Login
 ![image alt](https://github.com/Nikhila-27/Air-Booking/blob/8ac98a2801ee1342cb0a10de7a40ead539f1d875/Screenshot%202025-10-25%20111954.png)
