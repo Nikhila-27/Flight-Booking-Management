@@ -68,4 +68,4 @@ Booking
 ![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/0942f6df63292d06eaff2599b5cedc827f411d86/client/FlightProject/Screenshot%202025-10-25%20112619.png)
 
 ## 7. Email
-![image alt](https://github.com/Nikhila-27/Air-Booking/blob/f6f082ba360b25b8b3c1dec5be9ded2ee1ee8f31/Screenshot%202025-10-25%20123923.png)
+![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/4233747dc4e81274ddecd7e1fb62f0a2e0dca82b/client/FlightProject/Screenshot%202025-10-25%20123923.png)
