@@ -57,7 +57,7 @@ Booking
 ![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/0ba8e050240687f51381bfd5bbc85f8e7eb495ea/client/FlightProject/Screenshot%202025-10-25%20111954.png)
 
 ## 4. Admin Dashboard
-![image](https://github.com/Nikhila-27/Air-Booking/blob/1ca0b345f290a47efe2ea6f3b90741be6e980710/Screenshot%202025-10-25%20112339.png)
+![image](https://github.com/Nikhila-27/Flight-Booking-Management/blob/6eb70c821f18932e13727dcf18d187d2895a9d4c/client/FlightProject/Screenshot%202025-10-25%20112339.png)
 
 ![image alt](https://github.com/Nikhila-27/Air-Booking/blob/bdc41f2f64248619d15e15236d5f0803b5930993/Screenshot%202025-10-25%20112408.png)
 
