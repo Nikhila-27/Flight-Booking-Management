@@ -62,7 +62,7 @@ Booking
 ![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/dac76d0b2b2a64b3200dec5ef220ec44c55266ca/client/FlightProject/Screenshot%202025-10-25%20112408.png)
 
 ## 5. FlightList
-![image alt](https://github.com/Nikhila-27/Air-Booking/blob/8b1d494b0103d779674ec5da74139c788addf980/Screenshot%202025-10-25%20112540.png)
+![image alt](https://github.com/Nikhila-27/Flight-Booking-Management/blob/4f2f6098850f201ee82b19a552281561063c0128/client/FlightProject/Screenshot%202025-10-25%20112540.png)
 
 ## 6. Booking confirmation
 ![image alt](https://github.com/Nikhila-27/Air-Booking/blob/fc7349f3bbd439909508c5f667cc7dc29e2c712f/Screenshot%202025-10-25%20112619.png)
