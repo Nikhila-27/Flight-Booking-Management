@@ -48,7 +48,7 @@ Booking
 ## Screenshots
 
 ## 1. Home page
-![image alt](https://github.com/Nikhila-27/Air-Booking/blob/d703d9e3b5ad455bfd5eaffe9aac8d55c3422f80/Screenshot%202025-10-25%20112729.png)
+![image alt]()
 
 ## 2. Register
 ![image alt](https://github.com/Nikhila-27/Air-Booking/blob/f0fda8aef754f361c26fce35a8991a3c9bce8221/Screenshot%202025-10-25%20111928.png)
