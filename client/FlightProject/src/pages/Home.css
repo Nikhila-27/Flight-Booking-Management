@@ -1,0 +1,27 @@
+
+
+.overlay {
+  background: rgba(84, 190, 219, 0.5); 
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.home-content {
+  /* max-width: 1000px; */
+  padding: 20px;
+  width:1280px;
+  height: 400px;
+}
+
+.home-btn {
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.home-btn:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
