@@ -28,7 +28,6 @@ function AdminDashboard() {
     navigate("/login");
   };
 
-  // Fetch pending users
   const fetchPending = async () => {
     setLoading(true);
     const data = await commonApi("http://127.0.0.1:8000/api/admin/users/","GET",null,token);
@@ -37,14 +36,12 @@ function AdminDashboard() {
     setLoading(false);
   };
 
-  // Fetch flights
   const fetchFlights = async () => {
     const data = await commonApi("http://127.0.0.1:8000/api/flights/","GET",null,token);
     if (Array.isArray(data)) setFlights(data);
     else setFlights([]);
   };
 
-  // Approve user
   const approveUser = async (id) => {
     await commonApi(
       `http://127.0.0.1:8000/api/admin/users/${id}/approve/`,
@@ -55,7 +52,6 @@ function AdminDashboard() {
     fetchPending();
   };
 
-  // Add flight
   const addFlight = async (e) => {
     e.preventDefault();
     const formData = new FormData();
@@ -93,7 +89,6 @@ function AdminDashboard() {
     // <div style={{ padding: "20px" }}>
     <div style={{ padding: "20px", paddingTop: "100px", marginLeft: '250px', width: '70%', marginBottom: '100px' }}>
 
-      {/* Logout Button */}
       <div className="d-flex justify-content-end mb-3">
         <button className="btn btn-danger" onClick={handleLogout}>
           Logout
@@ -101,7 +96,7 @@ function AdminDashboard() {
       </div>
       <h1>Admin Dashboard</h1>
 
-      {/* Pending Users Table */}
+     
       <h2>Pending Users</h2>
       {users.length === 0 ? (
         <p>No pending approvals 🎉</p>
@@ -135,7 +130,7 @@ function AdminDashboard() {
         </div>
       )}
 
-      {/* Add Flight Section */}
+     
       {/* <h2 className="mt-4">Flights</h2> */}
       <button
         className="btn btn-primary mb-2"
@@ -160,7 +155,6 @@ function AdminDashboard() {
         </form>
       )}
 
-      {/* Flights Table */}
       <h3>All Flights</h3>
       {flights.length === 0 ? (
         <p>No flights available.</p>
@@ -207,4 +201,5 @@ function AdminDashboard() {
 }
 
 export default AdminDashboard;
+
 
